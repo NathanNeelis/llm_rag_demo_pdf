@@ -1,0 +1,5 @@
+pdfplumber
+opensearch-py
+openai
+tqdm
+python-dotenv
